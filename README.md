@@ -3,7 +3,7 @@
 # 👨‍💻 Hi, I'm Kalana  
 *Software Engineering Undergraduate at University of Colombo School of Computing*
 
-  [![co[![committers.top badge](https://user-badge.committers.top/sri_lanka/USERNAME.svg)](https://user-badge.committers.top/sri_lanka/Kalana-maduranga001)
+  [![committers.top badge](https://user-badge.committers.top/sri_lanka/USERNAME.svg)](https://user-badge.committers.top/sri_lanka/Kalana-maduranga001)
   &nbsp;&nbsp;
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/kalana-maduranga-353018332/)
   &nbsp;&nbsp;
